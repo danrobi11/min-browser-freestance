@@ -17,6 +17,6 @@ Example: To automatically redirect ```youtube.com``` to ```invidious.snopyta.org
 window.location.hostname = 'invidious.snopyta.org'
 ```
 
-Create a new ```userscript.js``` for every websites mirror you'd like to be redirected to.
+Create a new ```userscript.js``` for every websites mirrors that you'd like to be automatically redirected to.
 
 Credit: [PalmerAL](https://github.com/PalmerAL)
