@@ -19,4 +19,10 @@ window.location.hostname = 'invidious.snopyta.org'
 
 Create a new ```userscript.js``` for every websites mirrors that you'd like to be automatically redirected to.
 
+Here's a few ideas:
+
+* twitter.com to [nitter.net](https://nitter.net/)
+* reddit.com to [old.reddit.com](https://old.reddit.com) or [teddit.net](https://teddit.net/)
+* instagram.com to [bibliogram.art](https://bibliogram.art/)
+
 Credit: [PalmerAL](https://github.com/PalmerAL)
