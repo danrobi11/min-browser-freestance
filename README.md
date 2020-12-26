@@ -1,5 +1,5 @@
-# min-freestance
- Redirector script from mainstream websites to their privacy-supporting mirrors for the [min](https://github.com/minbrowser/min) browser
+# min-browser-freestance
+ Redirector script from mainstream websites to their privacy-supporting mirrors for the [min](https://github.com/minbrowser/min) browser.
  
  # Usage
  Create a ```userscript.js``` file following [this guide](https://github.com/minbrowser/min/wiki/userscripts) (called whatever you'd like) for your script.
